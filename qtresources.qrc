@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/folder_open_FILL0_wght0_GRAD0_opszNaN.png</file>
+        <file>icons/info_FILL0_wght0_GRAD0_opszNaN.png</file>
+        <file>icons/note_add_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>icons/settings_FILL0_wght0_GRAD0_opszNaN.png</file>
+        <file>icons/save_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>icons/save_as_FILL0_wght400_GRAD0_opsz48.png</file>
+        <file>icons/public_FILL0_wght400_GRAD0_opsz48.png</file>
+    </qresource>
+</RCC>
